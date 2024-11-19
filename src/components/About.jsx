@@ -6,10 +6,10 @@ const About = () => {
     <section className="w-full">
       <div className="grid grid-cols-1 md:grid-cols-2  justify-center">
         <div className="px-6 my-10 md:my-0 md:pl-10">
-          <h1 className="text-7xl text-orange-400">About-Cox's Bazar</h1>
+          <h1 className="text-7xl text-orange-400">About-Coxs Bazar</h1>
           <p>
-            Cox's Bazar, renowned for its world’s longest natural sea beach, is
-            a vibrant destination combining scenic coastal beauty with a rich
+            Coxs Bazar, renowned for its worlds longest natural sea beach, is a
+            vibrant destination combining scenic coastal beauty with a rich
             cultural heritage. A restaurant in this area offers diners not only
             delicious, fresh seafood and regional delicacies but also a unique
             experience surrounded by breathtaking ocean views and the refreshing
