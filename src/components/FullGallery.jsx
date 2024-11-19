@@ -9,6 +9,8 @@ const getData = async () => {
   return data;
 };
 
+export const revalidate = 60;
+
 const FullGallery = async () => {
   const data = await getData();
   return (
